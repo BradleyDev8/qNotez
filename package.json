@@ -6,8 +6,8 @@
   "main": "./node_modules/.dev/main/index.js",
   "resources": "src/resources",
   "author": {
-    "name": "Dalton Menezes",
-    "email": "daltonmenezes@outlook.com"
+    "name": "Bradley",
+    "email": "bradley-mccourt@outlook.com"
   },
   "license": "MIT",
   "packageManager": "pnpm@10.0.0",
